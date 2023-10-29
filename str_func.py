@@ -5,6 +5,6 @@ def tit():
 
 
 def tit1():
-    '''Title input'''
+    '''Title input '''
     second_word = input().title()
     return second_word
